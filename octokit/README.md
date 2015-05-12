@@ -13,7 +13,7 @@ Example:
 
 Installation from git checkout:
 
-    git clone git://github.com/samth/octokit.rkt
+    git clone git://github.com/tonyg/octokit.rkt
     raco pkg install --link -n octokit octokit.rkt
 
 Recompilation of the package, once it's installed and you have edited
